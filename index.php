@@ -82,7 +82,7 @@
 <footer class="center box-container primary no-border-radius">
     <p class="no-margin">
         <a href="https://github.com/AlexFlipnote/alexflipnote.github.io/blob/master/LICENSE" target="_blank">LICENSE</a>
-        | Thanks to AlexFlipnote for the framework|
+        | Thanks to AlexFlipnote for the framework |
         <a href="https://github.com/AlexFlipnote/alexflipnote.github.io" target="_blank">Source</a>
     </p>
 </footer>
