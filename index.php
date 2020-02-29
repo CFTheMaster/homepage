@@ -28,6 +28,11 @@
     <!-- CSS -->
     <link href="https://modesta.alexflipnote.dev/css/modesta.css" type="text/css" rel="stylesheet">
     <link href="https://modesta.alexflipnote.dev/css/blobcat.css" type="text/css" rel="stylesheet">
+    <link href="/css/custom.css" type="text/css" rel="stylesheet">
+
+    <!-- JavaScript -->
+    <script src="/js/smoothscroll.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="/js/main.js" type="text/javascript" charset="utf-8"></script>
 </head>
 <body class="github-font-standard">
 <div class="fullscreen">
