@@ -53,7 +53,7 @@
                 <a href="https://twitter.com/computerfreaker" class="btn twitter-dropshadow animation hover" target="_blank">Twitter</a>
                 <a href="https://twitch.tv/computerfreaker" class="btn raw-purple-dropshadow animation hover" target="_blank">Twitch</a>
                 <a href="https://mixer.com/computerfreaker" class="btn pumpkin-dropshadow animation hover" target="_blank">Mixer</a>
-                <a href="https://www.youtube.com/channel/UCAmSfVxERFcqo7u5MWIUNfA" class="btn cubered-dropshadow animation hover" target="_blank">Mixer</a>
+                <a href="https://www.youtube.com/channel/UCAmSfVxERFcqo7u5MWIUNfA" class="btn cubered-dropshadow animation hover" target="_blank">YouTube</a>
                 <a href="mailto:computerfreaker@computerfreaker.cf" class="btn emerald-dropshadow animation hover">Email</a>
             </div>
         </div>
