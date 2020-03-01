@@ -53,7 +53,9 @@
                 <a href="https://twitter.com/computerfreaker" class="btn twitter-dropshadow animation hover" target="_blank">Twitter</a>
                 <a href="https://twitch.tv/computerfreaker" class="btn raw-purple-dropshadow animation hover" target="_blank">Twitch</a>
                 <a href="https://mixer.com/computerfreaker" class="btn pumpkin-dropshadow animation hover" target="_blank">Mixer</a>
-                <a href="https://www.youtube.com/channel/UCAmSfVxERFcqo7u5MWIUNfA" class="btn cubered-dropshadow animation hover" target="_blank">YouTube</a>
+                <a href="https://www.youtube.com/channel/UCAmSfVxERFcqo7u5MWIUNfA" class="btn youtube-dropshadow animation hover" target="_blank">YouTube</a>
+                <a href="https://steamcommunity.com/id/computerfreaker/" class="btn steam-dropshadow animation hover" target="_blank">Steam</a>
+                <a href="https://t.me/computerfreaker" class="btn telegram-dropshadow animation hover" target="_blank">Telegram</a>
                 <a href="mailto:computerfreaker@computerfreaker.cf" class="btn emerald-dropshadow animation hover">Email</a>
             </div>
         </div>
@@ -67,15 +69,15 @@
     <div class="box-container">
         <h3 class="title emerald-text"><i class="emoji blobcatnerd"></i> Information:</h3>
         <div class="info-container"><p>
-                Hello <span class="emerald-text">friends</span>, welcome to my website, my name is Emillia, I am just a simple coder
+                Hello <span class="emerald-text">friends</span>, welcome to my website, my name is <span class="raw-purple-text">Emillia</span>, I am just a simple coder
             </p></div>
     </div>
 
     <div class="box-container">
         <h3 class="title emerald-text"><i class="emoji blobcatbusiness"></i> Projects:</h3>
         <div class="info-container">
-            <p><a href="https://api.computerfreaker.cf">API</a>, a simple API I created</p>
-            <p><a href="https://github.com/CFTheMaster/Unibot" target="_blank">Uni Bot</a>, a bot I made in Kotlin</p>
+            <p><a href="https://api.computerfreaker.cf">API</a>, a simple API I created, for images</p>
+            <p><a href="https://github.com/CFTheMaster/Unibot" target="_blank">Uni Bot</a>, a discord bot I made in Kotlin</p>
         </div>
     </div>
 </section>
