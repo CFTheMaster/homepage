@@ -72,7 +72,10 @@
     <div class="box-container">
         <h3 class="title emerald-text"><i class="emoji blobcatnerd"></i> Information:</h3>
         <div class="info-container"><p>
-                Hello <span class="emerald-text">friends</span>, welcome to my website, my name is <span class="raw-purple-text">Emillia</span>, I am just a simple coder
+                Hello <span class="emerald-text">friends</span>, welcome to my website, my name is <span class="raw-purple-text">Emillia</span>, I am just a simple coder.
+                I like to mess around with servers, programs, software, hardware and anything else technoligy related
+                I have worked with <span class="alizarin-text">Kotlin</span>, <span class="carrot-text">PHP</span>, <span class="emerald-text">C</span>, <span class="emerald-text">C++</span>, <span class="cubered-text">Java</span>,
+                <span class="cubered-text">Javascript</span>, <span class="green-sea-text">C#</span>, <span class="blurple-text">Ruby</span>, <span class="pumpkin-text">Rust</span> and learning many more.
             </p></div>
     </div>
 
