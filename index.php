@@ -84,6 +84,7 @@
             <p><a href="https://api.computerfreaker.cf">API</a>, a simple API I created in PHP, for JSON requests/Images.</p>
             <p><a href="https://github.com/CFTheMaster/Unibot" target="_blank">Uni Bot</a>, a discord bot I made in Kotlin.</p>
             <p><a href="https://github.com/CFTheMaster/homepage" target="_blank">Homepage</a>, the current page you are looking at.</p>
+            <p><a href="https://github.com/CFTheMaster/kotori" target="_blank">Kotori</a>, a twitter bot that posted booru/imageboard images at a regular interval (archived).</p>
         </div>
     </div>
 </section>
