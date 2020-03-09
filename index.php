@@ -83,6 +83,7 @@
         <div class="info-container">
             <p><a href="https://api.computerfreaker.cf">API</a>, a simple API I created, for images</p>
             <p><a href="https://github.com/CFTheMaster/Unibot" target="_blank">Uni Bot</a>, a discord bot I made in Kotlin</p>
+            <p><a href="https://github.com/CFTheMaster/homepage" target="_blank">Homepage</a>, the current page you are looking at</p>
         </div>
     </div>
 </section>
