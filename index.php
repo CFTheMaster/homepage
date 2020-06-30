@@ -52,7 +52,6 @@
                 <a href="https://github.com/CFTheMaster" class="btn github-dropshadow animation hover" target="_blank">GitHub</a>
                 <a href="https://twitter.com/computerfreaker" class="btn twitter-dropshadow animation hover" target="_blank">Twitter</a>
                 <a href="https://twitch.tv/computerfreaker" class="btn raw-purple-dropshadow animation hover" target="_blank">Twitch</a>
-                <a href="https://mixer.com/computerfreaker" class="btn pumpkin-dropshadow animation hover" target="_blank">Mixer</a>
                 <a href="https://www.youtube.com/channel/UCAmSfVxERFcqo7u5MWIUNfA" class="btn youtube-dropshadow animation hover" target="_blank">YouTube</a>
                 <a href="https://steamcommunity.com/id/computerfreaker/" class="btn steam-dropshadow animation hover" target="_blank">Steam</a>
                 <a href="https://t.me/computerfreaker" class="btn telegram-dropshadow animation hover" target="_blank">Telegram</a>
