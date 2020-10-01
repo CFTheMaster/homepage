@@ -69,7 +69,7 @@
 
 <section class="container" id="information">
     <div class="box-container">
-        <h3 class="title emerald-text"><i class="emoji blobcatnerd"></i> Information:</h3>
+        <h3 class="title emerald-text"><i class="emoji ablobcatangel"></i> Information:</h3>
         <div class="info-container"><p>
                 Hello <span class="emerald-text">friends</span>, welcome to my website, my name is <span class="raw-purple-text">Emillia</span>, I am just a simple coder and like to mess around with servers, programs, software, hardware and anything else technology related. <br>
                 I have worked with <span class="alizarin-text">Kotlin</span>, <span class="carrot-text">PHP</span>, <span class="emerald-text">C</span>, <span class="emerald-text">C++</span>, <span class="cubered-text">Java</span>,
@@ -83,6 +83,7 @@
             <p><a href="https://api.computerfreaker.cf">API</a>, a simple API I created in PHP, for JSON requests/Images.</p>
             <p><a href="https://github.com/CFTheMaster/Unibot" target="_blank">Uni Bot</a>, a discord bot I made in Kotlin.</p>
             <p><a href="https://github.com/CFTheMaster/homepage" target="_blank">Homepage</a>, the current page you are looking at.</p>
+            <p><a href="https://github.com/CFTheMaster/osusig" target="_blank">Osu Sig</a>, an updated version of osusig that works with PHP7+</p>
             <p><a href="https://github.com/CFTheMaster/kotori" target="_blank">Kotori</a>, a twitter bot that posted booru/imageboard images at a regular interval (archived).</p>
         </div>
     </div>
