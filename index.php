@@ -28,6 +28,9 @@
     <link href="/css/modesta.css" type="text/css" rel="stylesheet">
     <link href="/css/blobcat.css" type="text/css" rel="stylesheet">
     <link href="/css/custom.css" type="text/css" rel="stylesheet">
+    <link href="/css/colours.css" type="text/css" rel="stylesheet">
+    <link href="/css/markdown.css" type="text/css" rel="stylesheet">
+    <link href="/css/twemoji.css" type="text/css" rel="stylesheet">
 
     <!-- JavaScript -->
     <script src="/js/smoothscroll.min.js" type="text/javascript" charset="utf-8"></script>
