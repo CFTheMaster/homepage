@@ -17,11 +17,12 @@
     flex: 1 1 20%;
     align-items: center;
     justify-content: center;
+    padding: 15;
   }
   .pie {
     --p:20;
     --b:22px;
-    --c:darkred;
+    --c:#9569c0;
     --w:150px;
     
     width:var(--w);
