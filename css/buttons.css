@@ -1,5 +1,5 @@
 .button-container {
-    height: 300px;
+    height: 100px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
